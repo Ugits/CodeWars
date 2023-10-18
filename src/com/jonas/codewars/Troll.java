@@ -7,7 +7,7 @@ public class Troll {
     }
 
 
-    // Best practis
+    // Best practise
     public static String _disemvowel(String Z) {
         return Z.replaceAll("(?i)[aeiou]" , "");
     }

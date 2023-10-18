@@ -8,7 +8,8 @@ public class Main {
 
 
         // TODO: 2023-10-18
-
+        double[] numList = {1, 1, 32, 1, 1, 1, 1};
+        System.out.println(FindTheUniqueNumber.findUniq(numList));
 
         // TODO: 2023-10-18
         //System.out.println(Troll.disemvowel("I hate your face"));
