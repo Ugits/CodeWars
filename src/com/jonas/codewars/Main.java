@@ -7,9 +7,14 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println(Vowels.getCount("Harry Potter"));
+        // TODO: 2023-10-18
 
 
+        // TODO: 2023-10-18
+        //System.out.println(Troll.disemvowel("I hate your face"));
+
+        // TODO: 2023-10-18
+        //System.out.println(Vowels.getCount("Harry Potter"));
 
         // TODO: 2023-10-18
         //System.out.println(Arrays.toString(Dinglemouse.coffeeLimits(1987, 10, 19)));
