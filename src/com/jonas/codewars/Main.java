@@ -7,9 +7,15 @@ public class Main {
     public static void main(String[] args) {
 
 
+
+
+
+        // TODO: 2023-10-20  
+        //System.out.println(SquareEveryDigit.squareDigits(9999));
+        
         // TODO: 2023-10-18
-        double[] numList = {1, 1, 32, 1, 1, 1, 1};
-        System.out.println(FindTheUniqueNumber.findUniq(numList));
+        //double[] numList = {1, 1, 32, 1, 1, 1, 1};
+        //System.out.println(FindTheUniqueNumber.findUniq(numList));
 
         // TODO: 2023-10-18
         //System.out.println(Troll.disemvowel("I hate your face"));
